@@ -41,7 +41,7 @@
 
 
 ## Screenshot
-![Example screenshot](/assets/example.png)
+![Example screenshot](/assets/example.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
