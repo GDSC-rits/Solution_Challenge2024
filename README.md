@@ -41,7 +41,9 @@
 
 
 ## Screenshot
-![Example screenshot](/assets/example.jpg)
+
+<img src="assets/example.jpg" width="400">
+
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
