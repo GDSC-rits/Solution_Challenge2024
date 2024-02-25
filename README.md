@@ -57,10 +57,12 @@
   - Change to a more understandable user interface.
  
 ## How to run this code
-- git clone https://github.com/GDSC-rits/Solution_Challenge2024.git
-- cd Solution_Challenge2024
-- flutter pub get
-- flutter run
+- Use is recommended for IOS.
+  
+  - git clone https://github.com/GDSC-rits/Solution_Challenge2024.git
+  - cd Solution_Challenge2024
+  - flutter pub get
+  - flutter run
 
 
 
