@@ -11,6 +11,7 @@
 * [Feature](#feature)
 * [Screenshot](#screenshot)
 * [Room for Improvement](#room-for-improvement)
+* [How to run this code](#how-to-run-this-code)
 
 
 <!-- * [License](#license) -->
@@ -54,6 +55,12 @@
 - Room for improvement:
   - Addition of comment function in each marker
   - Change to a more understandable user interface.
+ 
+## How to run this code
+- git clone https://github.com/GDSC-rits/Solution_Challenge2024.git
+- cd Solution_Challenge2024
+- flutter pub get
+- flutter run
 
 
 
